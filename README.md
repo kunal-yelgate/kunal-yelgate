@@ -1,5 +1,9 @@
 # 💫 About Me:
-👋 Hi, I'm Kunal Yelgate<br><br> 🚀 About Me<br>💻 Web Developer in the making  <br>🤖 AI & Machine Learning Enthusiast  <br>📚 Passionate about learning, building, and sharing knowledge  <br><br>I enjoy turning ideas into real-world applications through clean, structured code and continuous practice.<br><br> 📚 Currently Learning<br>- Advanced JavaScript<br>- Backend Development<br>- Machine Learning Fundamentals<br>- Data Structures & Algorithms<br><br> 
+👋 Hi, I'm Kunal Yelgate  A Second Year B.Tech Computer Science student with a strong interest in Web Development and Artificial Intelligence.I enjoy building clean, responsive, and user-friendly web interfaces using HTML, CSS, and JavaScript. Alongside frontend development, I’m actively strengthening my foundation in Python, C++, and core AI/ML concepts.
+
+I aim to become a skilled software developer who creates real-world, impactful projects. I’m constantly learning modern technologies, improving my problem-solving skills, and working on personal as well as academic projects to gain hands-on experience.
+
+I’m currently seeking internship opportunities where I can learn, contribute, and collaborate with passionate developers—especially in Web Development or AI/ML.<br><br> 🚀 About Me<br>💻 Web Developer in the making  <br>🤖 AI & Machine Learning Enthusiast  <br>📚 Passionate about learning, building, and sharing knowledge  <br><br>I enjoy turning ideas into real-world applications through clean, structured code and continuous practice.<br><br> 📚 Currently Learning<br>- Advanced JavaScript<br>- Backend Development<br>- Machine Learning Fundamentals<br>- Data Structures & Algorithms<br><br> 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/kunal-yelgate) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yelgatekunal@gmail.com) 

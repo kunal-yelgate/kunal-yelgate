@@ -6,8 +6,7 @@
 <br/>
 
 <!-- Profile views badge -->
-![Profile Views](https://komarev.com/ghpvc/?username=yelgatekunal0&label=Profile%20Views&color=58a6ff&style=flat-square)
-&nbsp;
+
 [![GitHub stars](https://img.shields.io/github/stars/yelgatekunal0?label=Total%20Stars&style=flat-square&color=ffa657)](https://github.com/yelgatekunal0)
 
 </div>
@@ -60,7 +59,8 @@ I’m currently seeking internship opportunities where I can learn, contribute, 
 ---
 
 <div align="center">
-
+![Profile Views](https://komarev.com/ghpvc/?username=yelgatekunal0&label=Profile%20Views&color=58a6ff&style=flat-square)
+&nbsp;
 🚀 *Open to internships & collaborations — let's build something amazing!*
 
 </div>

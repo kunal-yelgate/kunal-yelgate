@@ -1,3 +1,31 @@
+<div align="center">
+
+<!-- Animated Header -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B+I'm+Kunal+Yelgate!;B.Tech+CS+%7C+2nd+Year+%F0%9F%8E%93;Web+Developer+%F0%9F%9A%80;AI+%26+ML+Enthusiast+%F0%9F%A4%96;Building+real-world+projects+%F0%9F%94%A5)](https://git.io/typing-svg)
+
+<br/>
+
+<!-- Profile views badge -->
+![Profile Views](https://komarev.com/ghpvc/?username=yelgatekunal0&label=Profile%20Views&color=58a6ff&style=flat-square)
+&nbsp;
+[![GitHub followers](https://img.shields.io/github/followers/yelgatekunal0?label=Followers&style=flat-square&color=3fb950)](https://github.com/yelgatekunal0)
+&nbsp;
+[![GitHub stars](https://img.shields.io/github/stars/yelgatekunal0?label=Total%20Stars&style=flat-square&color=ffa657)](https://github.com/yelgatekunal0)
+
+</div>
+
+---
+
+## 🌐 Portfolio
+
+<div align="center">
+
+### ✨ [👉 Visit My Portfolio → photofolio-omega-roan.vercel.app](https://photofolio-omega-roan.vercel.app/) ✨
+
+</div>
+
+---
+
 # 💫 About Me:
 👋 Hi, I'm Kunal Yelgate  A Second Year B.Tech Computer Science student with a strong interest in Web Development and Artificial Intelligence.I enjoy building clean, responsive, and user-friendly web interfaces using HTML, CSS, and JavaScript. Alongside frontend development, I’m actively strengthening my foundation in Python, C++, and core AI/ML concepts.
 
@@ -18,4 +46,28 @@ I’m currently seeking internship opportunities where I can learn, contribute, 
 ---
 [![](https://visitcount.itsvg.in/api?id=yelgatekunal0&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+## 📈 Contribution Graph
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yelgatekunal0&theme=tokyo-night&hide_border=true&area=true)
+
+---
+## 📚 Currently Learning
+
+| Area | Status |
+|------|--------|
+| ⚡ Advanced JavaScript | 🔄 In Progress |
+| 🛠️ Backend Development | 🔄 In Progress |
+| 🧠 Machine Learning Fundamentals | 🔄 In Progress |
+| 🔢 Data Structures & Algorithms | 🔄 In Progress |
+
+---
+
+<div align="center">
+
+[![Visit Count](https://visitcount.itsvg.in/api?id=yelgatekunal0&icon=6&color=6)](https://visitcount.itsvg.in)
+
+🚀 *Open to internships & collaborations — let's build something amazing!*
+
+</div>

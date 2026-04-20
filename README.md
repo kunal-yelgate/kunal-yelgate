@@ -59,8 +59,7 @@ I’m currently seeking internship opportunities where I can learn, contribute, 
 ---
 
 <div align="center">
-![Profile Views](https://komarev.com/ghpvc/?username=yelgatekunal0&label=Profile%20Views&color=58a6ff&style=flat-square)
-&nbsp;
+
 🚀 *Open to internships & collaborations — let's build something amazing!*
 
 </div>

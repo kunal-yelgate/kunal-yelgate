@@ -8,8 +8,6 @@
 <!-- Profile views badge -->
 ![Profile Views](https://komarev.com/ghpvc/?username=yelgatekunal0&label=Profile%20Views&color=58a6ff&style=flat-square)
 &nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/yelgatekunal0?label=Followers&style=flat-square&color=3fb950)](https://github.com/yelgatekunal0)
-&nbsp;
 [![GitHub stars](https://img.shields.io/github/stars/yelgatekunal0?label=Total%20Stars&style=flat-square&color=ffa657)](https://github.com/yelgatekunal0)
 
 </div>
@@ -43,10 +41,7 @@ I’m currently seeking internship opportunities where I can learn, contribute, 
 ![](https://nirzak-streak-stats.vercel.app/?user=yelgatekunal0&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yelgatekunal0&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=yelgatekunal0&icon=0&color=0)](https://visitcount.itsvg.in)
 
----
 
 ## 📈 Contribution Graph
 
@@ -65,8 +60,6 @@ I’m currently seeking internship opportunities where I can learn, contribute, 
 ---
 
 <div align="center">
-
-[![Visit Count](https://visitcount.itsvg.in/api?id=yelgatekunal0&icon=6&color=6)](https://visitcount.itsvg.in)
 
 🚀 *Open to internships & collaborations — let's build something amazing!*
 

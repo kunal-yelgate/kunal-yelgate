@@ -66,22 +66,21 @@ I’m currently seeking internship opportunities where I can learn, contribute, 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-# 📊 GitHub Stats:
+
+## 📊 GitHub Stats
+
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=kunal-yelgate&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF00FF&text_color=FFFFFF&border_radius=10&include_all_commits=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=kunal-yelgate&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF00FF&currStreakLabel=00D9FF&border_radius=10" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=kunal-yelgate&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&border_radius=10&include_all_commits=true&count_private=true&show_icons=true&cache_seconds=1800" alt="GitHub Stats" />
+  <img width="48%" src="https://streak-stats.demolab.com?user=kunal-yelgate&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF00FF&currStreakLabel=00D9FF&border_radius=10" alt="GitHub Streak" />
 </p>
-
-
-## 📈 Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kunal-yelgate&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D9FF&line=FF00FF&point=FFFFFF&area=true&area_color=00D9FF" width="95%" alt="Contribution Graph"/>
 </p>
 
----
 
-## 📚 Currently Learning
+</p>
+📚 Currently Learning
 
 | Area | Status |
 |------|--------|

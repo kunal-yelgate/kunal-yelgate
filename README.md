@@ -71,7 +71,6 @@ I'm **Kunal Yelgate**, a 2nd-year B.Tech Computer Science student who builds ful
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=kunal-yelgate&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&border_radius=10&show_icons=true&cache_seconds=1800" alt="GitHub Stats" />
   <img width="48%" src="https://streak-stats.demolab.com?user=kunal-yelgate&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF00FF&currStreakLabel=00D9FF&border_radius=10" alt="GitHub Streak" />
 </p>
 

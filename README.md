@@ -50,13 +50,13 @@ I'm **Kunal Yelgate**, a 2nd-year B.Tech Computer Science student who builds ful
 <p align="center">
 
 ### 💻 Languages
-<img src="https://skillicons.dev/icons?i=c,cpp,java,py,js&theme=dark" alt="Languages"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,py,js,ts&theme=dark" alt="Languages"/>
 
 ### 🌐 Frontend
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap&theme=dark" alt="Frontend"/>
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap&theme=dark" alt="Frontend"/>
 
 ### ⚙️ Backend & Cloud
-<img src="https://skillicons.dev/icons?i=nodejs,gcp,docker&theme=dark" alt="Backend"/>
+<img src="https://skillicons.dev/icons?i=nodejs,aws,gcp,docker,graphql,nginx&theme=dark" alt="Backend"/>
 
 ### 🗄️ Database & Services
 <img src="https://skillicons.dev/icons?i=mongodb,firebase&theme=dark" alt="Database"/>

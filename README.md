@@ -1,5 +1,8 @@
 <!-- ⚠️ IMPORTANT: Replace 'kunal-yelgate' with your actual GitHub username if different -->
 
+<!-- 🌊 Animated Waving Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,50:00D9FF,100:FF00FF&height=200&section=header&text=Kunal%20Yelgate&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35" width="100%"/>
+
 <div align="center">
 
 <!-- Animated Header -->
@@ -97,3 +100,6 @@ I'm **Kunal Yelgate**, a 2nd-year B.Tech Computer Science student who builds ful
 🚀 *Open to internships & collaborations — let's build something amazing!*
 
 </div>
+
+<!-- 🌊 Animated Waving Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00FF,50:00D9FF,100:58A6FF&height=150&section=footer&text=&fontSize=0" width="100%"/>

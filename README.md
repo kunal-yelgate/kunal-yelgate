@@ -71,15 +71,19 @@ I'm **Kunal Yelgate**, a 2nd-year B.Tech Computer Science student who builds ful
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
-<p align="center">
-  <img width="48%" src="https://streak-stats.demolab.com?user=kunal-yelgate&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF00FF&currStreakLabel=00D9FF&border_radius=10" alt="GitHub Streak" />
-</p>
+<div align="center">
+
+<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kunal-yelgate&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/> -->
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=kunal-yelgate&theme=tokyonight&hide_border=true"/>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kunal-yelgate&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D9FF&line=FF00FF&point=FFFFFF&area=true&area_color=00D9FF" width="95%" alt="Contribution Graph"/>
 </p>
+
+</div>
 
 ---
 

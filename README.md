@@ -83,17 +83,6 @@ I'm **Kunal Yelgate**, a 2nd-year B.Tech Computer Science student who builds ful
 
 ---
 
-## 📚 Currently Learning
-
-| Area | Status |
-|------|--------|
-| ⚡ Advanced JavaScript | 🔄 In Progress |
-| 🛠️ Backend Development | 🔄 In Progress |
-| 🧠 Machine Learning Fundamentals | 🔄 In Progress |
-| 🔢 Data Structures & Algorithms | 🔄 In Progress |
-
----
-
 
 <div align="center">
 

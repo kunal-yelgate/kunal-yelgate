@@ -1,4 +1,4 @@
-make the graphs  funtional  in readme file : <!-- ⚠️ IMPORTANT: Replace 'kunal-yelgate' with your actual GitHub username if different -->
+ <!-- ⚠️ IMPORTANT: Replace 'kunal-yelgate' with your actual GitHub username if different -->
 
 <!-- 🌊 Animated Waving Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,50:00D9FF,100:FF00FF&height=200&section=header&text=Kunal%20Yelgate&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35" width="100%"/>

@@ -15,7 +15,7 @@
 <table align="center" border="0" cellpadding="0" cellspacing="0">
 <tr>
   <td align="center" width="120">
-    <a href="https://my-profile-three-roan.vercel.app/" target="_blank">
+    <a href="https://kunalyelgate.vercel.app/" target="_blank">
       <img src="https://skillicons.dev/icons?i=vercel&theme=dark" width="52" height="52" alt="Portfolio"/><br/>
       <img src="https://img.shields.io/badge/Portfolio-ffffff?style=flat-square&labelColor=ffffff&color=ffffff&logoColor=000" width="70" alt="Portfolio"/>
     </a>

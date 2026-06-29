@@ -212,6 +212,8 @@ I'm **Kunal Yelgate**, a 2nd-year B.Tech Computer Science student who builds ful
 
 <div align="center">
 
+<p align="center">
+<img src="https://raw.githubusercontent.com/kunal-yelgate/kunal-yelgate/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/> </p>
 🚀 *Open to internships & collaborations — let's build something amazing!*
 
 </div>

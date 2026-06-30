@@ -53,7 +53,7 @@
 
 💫 About Me
 
-I'm **Kunal Yelgate**, a 2nd-year B.Tech Computer Science student who builds full-stack web applications and explores AI/ML. I focus on writing clean, responsive code and shipping projects that solve real problems.
+I'm **Kunal Yelgate**, a 3nd-year B.Tech Computer Science student who builds full-stack web applications and explores AI/ML. I focus on writing clean, responsive code and shipping projects that solve real problems.
 
 - 🔭 Currently building projects with **React, Node.js**, and **OpenCV**
 - 🌱 Learning **System Design**, **DSA**, and **Backend Architecture**

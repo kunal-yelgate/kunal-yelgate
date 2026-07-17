@@ -6,7 +6,7 @@
 <h1 align="center">Hi 👋, I'm Kunal Yelgate</h1>
 
 <h3 align="center">
-Backend Developer • MERN Stack Developer • Cloud Native Learner
+Backend Developer • MERN Stack Developer • Distributed Systems & Cloud Architecture Learner
 </h3>
 
 <p align="center">

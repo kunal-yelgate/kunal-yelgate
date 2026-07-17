@@ -220,14 +220,6 @@ I'm **Kunal Yelgate**, a 3rd Year B.Tech Computer Science student who builds ful
 <img src="https://raw.githubusercontent.com/kunal-yelgate/kunal-yelgate/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
----
-
-<p align="center">
-
-⭐ From <a href="https://github.com/kunal-yelgate">Kunal Yelgate</a>
-
-</p>
-
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:1F6FEB,100:0D1117"/>
 </p>

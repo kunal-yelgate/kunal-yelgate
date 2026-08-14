@@ -1,7 +1,8 @@
 <!-- Header -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,50:58A6FF,100:1F6FEB&text=Kunal%20Yelgate&fontSize=55&fontColor=ffffff&fontAlignY=38&animation=fadeIn" width="100%"/>
-</p>
+</p> -->
+<img width="2000" height="400" alt="image" src="https://github.com/user-attachments/assets/5376ef2d-dda5-4e58-9dd4-00953d5565ad" />
 
 <h1 align="center">Hi 👋, I'm Kunal Yelgate</h1>
 
@@ -220,6 +221,6 @@ I'm **Kunal Yelgate**, a 3rd Year B.Tech Computer Science student who builds ful
 <img src="https://raw.githubusercontent.com/kunal-yelgate/kunal-yelgate/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
-<p align="center">
+<!-- <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:1F6FEB,100:0D1117"/>
-</p>
+</p> -->

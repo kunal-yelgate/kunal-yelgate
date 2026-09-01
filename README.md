@@ -1,8 +1,6 @@
 <!-- Header -->
-<!-- <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,50:58A6FF,100:1F6FEB&text=Kunal%20Yelgate&fontSize=55&fontColor=ffffff&fontAlignY=38&animation=fadeIn" width="100%"/>
-</p> -->
-<img width="2000" height="400" alt="image" src="https://github.com/user-attachments/assets/5376ef2d-dda5-4e58-9dd4-00953d5565ad" />
+
+<img width="2000" height="400" alt="Kunal Yelgate Banner" src="https://github.com/user-attachments/assets/5376ef2d-dda5-4e58-9dd4-00953d5565ad" />
 
 <h1 align="center">Hi 👋, I'm Kunal Yelgate</h1>
 
@@ -15,17 +13,15 @@ Building scalable web applications, solving real-world problems, and continuousl
 </p>
 
 <p align="center">
-<a href="https://kunalyelgate.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com/in/kunal-yelgate">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:yelgatekunal@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+  <a href="https://kunalyelgate.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/kunal-yelgate">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:yelgatekunal@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 ---
@@ -34,15 +30,15 @@ Building scalable web applications, solving real-world problems, and continuousl
 
 I'm **Kunal Yelgate**, a 3rd Year B.Tech Computer Science student who builds full-stack web applications and explores AI/ML. I focus on writing clean, responsive code and shipping projects that solve real problems.
 
-- 🔭 Currently building projects with **React, Node.js**, and **OpenCV**
-- 🌱 Learning **System Design**, **DSA**, and **Backend Architecture**
-- 👯 Open to collaborating on **Web Development** and **AI/ML** projects
-- 💬 Ask me about **JavaScript, Python, C++, or OpenCV**
-- 📫 Reach me at **yelgatekunal@gmail.com**
+* 🔭 Currently building projects with **React, Node.js, Express.js, and OpenCV**
+* 🌱 Learning **System Design, DSA, Backend Architecture, and Distributed Systems**
+* 👯 Open to collaborating on **Web Development and AI/ML projects**
+* 💬 Ask me about **JavaScript, Python, C++, Node.js, or OpenCV**
+* 📫 Reach me at **[yelgatekunal@gmail.com](mailto:yelgatekunal@gmail.com)**
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 ### 💻 Languages
 
@@ -92,8 +88,16 @@ I'm **Kunal Yelgate**, a 3rd Year B.Tech Computer Science student who builds ful
     <sub><b>React</b></sub>
   </td>
   <td align="center" width="80">
-    <img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="48" height="48" alt="Tailwind"/><br/>
-    <sub><b>Tailwind</b></sub>
+    <img src="https://skillicons.dev/icons?i=nextjs&theme=dark" width="48" height="48" alt="Next.js"/><br/>
+    <sub><b>Next.js</b></sub>
+  </td>
+  <td align="center" width="80">
+    <img src="https://skillicons.dev/icons?i=vite&theme=dark" width="48" height="48" alt="Vite"/><br/>
+    <sub><b>Vite</b></sub>
+  </td>
+  <td align="center" width="80">
+    <img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="48" height="48" alt="Tailwind CSS"/><br/>
+    <sub><b>Tailwind CSS</b></sub>
   </td>
   <td align="center" width="80">
     <img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" width="48" height="48" alt="Bootstrap"/><br/>
@@ -102,7 +106,7 @@ I'm **Kunal Yelgate**, a 3rd Year B.Tech Computer Science student who builds ful
 </tr>
 </table>
 
-### ⚙️ Backend & Cloud
+### ⚙️ Backend
 
 <table align="center" border="0" cellpadding="0" cellspacing="0">
 <tr>
@@ -111,29 +115,17 @@ I'm **Kunal Yelgate**, a 3rd Year B.Tech Computer Science student who builds ful
     <sub><b>Node.js</b></sub>
   </td>
   <td align="center" width="80">
-    <img src="https://skillicons.dev/icons?i=aws&theme=dark" width="48" height="48" alt="AWS"/><br/>
-    <sub><b>AWS</b></sub>
-  </td>
-  <td align="center" width="80">
-    <img src="https://skillicons.dev/icons?i=gcp&theme=dark" width="48" height="48" alt="GCP"/><br/>
-    <sub><b>GCP</b></sub>
-  </td>
-  <td align="center" width="80">
-    <img src="https://skillicons.dev/icons?i=docker&theme=dark" width="48" height="48" alt="Docker"/><br/>
-    <sub><b>Docker</b></sub>
+    <img src="https://skillicons.dev/icons?i=express&theme=dark" width="48" height="48" alt="Express.js"/><br/>
+    <sub><b>Express.js</b></sub>
   </td>
   <td align="center" width="80">
     <img src="https://skillicons.dev/icons?i=graphql&theme=dark" width="48" height="48" alt="GraphQL"/><br/>
     <sub><b>GraphQL</b></sub>
   </td>
-  <td align="center" width="80">
-    <img src="https://skillicons.dev/icons?i=nginx&theme=dark" width="48" height="48" alt="Nginx"/><br/>
-    <sub><b>Nginx</b></sub>
-  </td>
 </tr>
 </table>
 
-### 🗄️ Database & Services
+### 🗄️ Databases & Services
 
 <table align="center" border="0" cellpadding="0" cellspacing="0">
 <tr>
@@ -148,7 +140,30 @@ I'm **Kunal Yelgate**, a 3rd Year B.Tech Computer Science student who builds ful
 </tr>
 </table>
 
-### 🔧 Tools
+### ☁️ Cloud & DevOps
+
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+<tr>
+  <td align="center" width="80">
+    <img src="https://skillicons.dev/icons?i=docker&theme=dark" width="48" height="48" alt="Docker"/><br/>
+    <sub><b>Docker</b></sub>
+  </td>
+  <td align="center" width="80">
+    <img src="https://skillicons.dev/icons?i=nginx&theme=dark" width="48" height="48" alt="Nginx"/><br/>
+    <sub><b>Nginx</b></sub>
+  </td>
+  <td align="center" width="80">
+    <img src="https://skillicons.dev/icons?i=aws&theme=dark" width="48" height="48" alt="AWS"/><br/>
+    <sub><b>AWS</b></sub>
+  </td>
+  <td align="center" width="80">
+    <img src="https://skillicons.dev/icons?i=gcp&theme=dark" width="48" height="48" alt="GCP"/><br/>
+    <sub><b>GCP</b></sub>
+  </td>
+</tr>
+</table>
+
+### 🔧 Developer Tools
 
 <table align="center" border="0" cellpadding="0" cellspacing="0">
 <tr>
@@ -172,17 +187,12 @@ I'm **Kunal Yelgate**, a 3rd Year B.Tech Computer Science student who builds ful
 # 📈 GitHub Analytics
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=kunal-yelgate&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunal-yelgate&layout=compact&theme=github_dark&hide_border=true"/>
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kunal-yelgate&show_icons=true&theme=github_dark&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunal-yelgate&layout=compact&theme=github_dark&hide_border=true"/>
 </p>
 
 <p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=kunal-yelgate&theme=github-dark-blue&hide_border=true"/>
-
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=kunal-yelgate&theme=github-dark-blue&hide_border=true"/>
 </p>
 
 ---
@@ -190,9 +200,7 @@ I'm **Kunal Yelgate**, a 3rd Year B.Tech Computer Science student who builds ful
 # 📊 Contribution Graph
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kunal-yelgate&theme=github-dark&hide_border=true&area=true"/>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kunal-yelgate&theme=github-dark&hide_border=true&area=true"/>
 </p>
 
 ---
@@ -200,27 +208,19 @@ I'm **Kunal Yelgate**, a 3rd Year B.Tech Computer Science student who builds ful
 # 📫 Let's Connect
 
 <p align="center">
-
-<a href="mailto:yelgatekunal@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com/in/kunal-yelgate">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://kunalyelgate.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
+  <a href="mailto:yelgatekunal@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/kunal-yelgate">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://kunalyelgate.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/kunal-yelgate/kunal-yelgate/output/github-contribution-grid-snake-dark.svg"/>
+  <img src="https://raw.githubusercontent.com/kunal-yelgate/kunal-yelgate/output/github-contribution-grid-snake-dark.svg"/>
 </p>
-
-<!-- <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:1F6FEB,100:0D1117"/>
-</p> -->

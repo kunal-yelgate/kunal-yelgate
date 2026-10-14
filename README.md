@@ -2,14 +2,14 @@
 
 <img width="2000" height="400" alt="Kunal Yelgate Banner" src="https://github.com/user-attachments/assets/5376ef2d-dda5-4e58-9dd4-00953d5565ad" />
 
-<h1 align="center">Hi 👋, I'm Kunal Yelgate</h1>
+<h1 align="center">Kunal Yelgate</h1>
 
 <h3 align="center">
-Backend Developer • MERN Stack Developer • Distributed Systems & Cloud Architecture Learner
+Backend Developer &nbsp;|&nbsp; MERN Stack Developer &nbsp;|&nbsp; Cloud & Distributed Systems Enthusiast
 </h3>
 
 <p align="center">
-Building scalable web applications, solving real-world problems, and continuously learning modern backend technologies.
+Third-year Computer Science student building scalable, cloud-ready web applications.<br/>
 </p>
 
 <p align="center">
@@ -20,171 +20,48 @@ Building scalable web applications, solving real-world problems, and continuousl
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:yelgatekunal@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
----
 
-# 👨‍💻 About Me
+## About Me
 
-I'm **Kunal Yelgate**, a 3rd Year B.Tech Computer Science student who builds full-stack web applications and explores AI/ML. I focus on writing clean, responsive code and shipping projects that solve real problems.
+I'm a third-year B.Tech Computer Science student who designs and ships full-stack applications with a strong focus on backend engineering and cloud deployment. I care about clean, maintainable code, sound architecture, and software that solves real problems. Alongside web development, I explore computer vision and AI/ML.
 
-* 🔭 Currently building projects with **React, Node.js, Express.js, and OpenCV**
-* 🌱 Learning **System Design, DSA, Backend Architecture, and Distributed Systems**
-* 👯 Open to collaborating on **Web Development and AI/ML projects**
-* 💬 Ask me about **JavaScript, Python, C++, Node.js, or OpenCV**
-* 📫 Reach me at **[yelgatekunal@gmail.com](mailto:yelgatekunal@gmail.com)**
+**What I work with**
+- **Backend & APIs:** Node.js, Express.js, REST and GraphQL, MongoDB
+- **Cloud & DevOps:** containerizing apps with Docker, serving them through Nginx, and deploying on AWS and GCP
+- **AI / Computer Vision:** OpenCV and applied ML projects
 
----
+**Currently learning**
+- System design, data structures and algorithms
+- Distributed systems and scalable backend architecture
+- Cloud architecture and deployment best practices
 
-# 🛠️ Tech Stack
+**Open to**
+- Backend / full-stack internships and entry-level roles
+- Collaboration on web, cloud, and AI/ML projects
 
-### 💻 Languages
 
-<table align="center" border="0" cellpadding="0" cellspacing="0">
-<tr>
-  <td align="center" width="80">
-    <img src="https://skillicons.dev/icons?i=c&theme=dark" width="48" height="48" alt="C"/><br/>
-    <sub><b>C</b></sub>
-  </td>
-  <td align="center" width="80">
-    <img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="48" height="48" alt="C++"/><br/>
-    <sub><b>C++</b></sub>
-  </td>
-  <td align="center" width="80">
-    <img src="https://skillicons.dev/icons?i=java&theme=dark" width="48" height="48" alt="Java"/><br/>
-    <sub><b>Java</b></sub>
-  </td>
-  <td align="center" width="80">
-    <img src="https://skillicons.dev/icons?i=py&theme=dark" width="48" height="48" alt="Python"/><br/>
-    <sub><b>Python</b></sub>
-  </td>
-  <td align="center" width="80">
-    <img src="https://skillicons.dev/icons?i=js&theme=dark" width="48" height="48" alt="JavaScript"/><br/>
-    <sub><b>JavaScript</b></sub>
-  </td>
-  <td align="center" width="80">
-    <img src="https://skillicons.dev/icons?i=ts&theme=dark" width="48" height="48" alt="TypeScript"/><br/>
-    <sub><b>TypeScript</b></sub>
-  </td>
-</tr>
-</table>
+## Tech Stack
 
-### 🌐 Frontend
+<div align="center">
 
-<table align="center" border="0" cellpadding="0" cellspacing="0">
-<tr>
-  <td align="center" width="80">
-    <img src="https://skillicons.dev/icons?i=html&theme=dark" width="48" height="48" alt="HTML"/><br/>
-    <sub><b>HTML</b></sub>
-  </td>
-  <td align="center" width="80">
-    <img src="https://skillicons.dev/icons?i=css&theme=dark" width="48" height="48" alt="CSS"/><br/>
-    <sub><b>CSS</b></sub>
-  </td>
-  <td align="center" width="80">
-    <img src="https://skillicons.dev/icons?i=react&theme=dark" width="48" height="48" alt="React"/><br/>
-    <sub><b>React</b></sub>
-  </td>
-  <td align="center" width="80">
-    <img src="https://skillicons.dev/icons?i=nextjs&theme=dark" width="48" height="48" alt="Next.js"/><br/>
-    <sub><b>Next.js</b></sub>
-  </td>
-  <td align="center" width="80">
-    <img src="https://skillicons.dev/icons?i=vite&theme=dark" width="48" height="48" alt="Vite"/><br/>
-    <sub><b>Vite</b></sub>
-  </td>
-  <td align="center" width="80">
-    <img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="48" height="48" alt="Tailwind CSS"/><br/>
-    <sub><b>Tailwind CSS</b></sub>
-  </td>
-  <td align="center" width="80">
-    <img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" width="48" height="48" alt="Bootstrap"/><br/>
-    <sub><b>Bootstrap</b></sub>
-  </td>
-</tr>
-</table>
+| | |
+|:--|:--|
+| **Languages** | <img src="https://skillicons.dev/icons?i=c,cpp,java,py,js,ts&theme=dark" /> |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,vite,tailwind,bootstrap&theme=dark" /> |
+| **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express,graphql&theme=dark" /> |
+| **Databases** | <img src="https://skillicons.dev/icons?i=mongodb,firebase&theme=dark" /> |
+| **Cloud & DevOps** | <img src="https://skillicons.dev/icons?i=docker,nginx,aws,gcp&theme=dark" /> |
+| **Tools** | <img src="https://skillicons.dev/icons?i=git,github,arduino&theme=dark" /> |
 
-### ⚙️ Backend
+</div>
 
-<table align="center" border="0" cellpadding="0" cellspacing="0">
-<tr>
-  <td align="center" width="80">
-    <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="48" height="48" alt="Node.js"/><br/>
-    <sub><b>Node.js</b></sub>
-  </td>
-  <td align="center" width="80">
-    <img src="https://skillicons.dev/icons?i=express&theme=dark" width="48" height="48" alt="Express.js"/><br/>
-    <sub><b>Express.js</b></sub>
-  </td>
-  <td align="center" width="80">
-    <img src="https://skillicons.dev/icons?i=graphql&theme=dark" width="48" height="48" alt="GraphQL"/><br/>
-    <sub><b>GraphQL</b></sub>
-  </td>
-</tr>
-</table>
+ 
 
-### 🗄️ Databases & Services
-
-<table align="center" border="0" cellpadding="0" cellspacing="0">
-<tr>
-  <td align="center" width="80">
-    <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="48" height="48" alt="MongoDB"/><br/>
-    <sub><b>MongoDB</b></sub>
-  </td>
-  <td align="center" width="80">
-    <img src="https://skillicons.dev/icons?i=firebase&theme=dark" width="48" height="48" alt="Firebase"/><br/>
-    <sub><b>Firebase</b></sub>
-  </td>
-</tr>
-</table>
-
-### ☁️ Cloud & DevOps
-
-<table align="center" border="0" cellpadding="0" cellspacing="0">
-<tr>
-  <td align="center" width="80">
-    <img src="https://skillicons.dev/icons?i=docker&theme=dark" width="48" height="48" alt="Docker"/><br/>
-    <sub><b>Docker</b></sub>
-  </td>
-  <td align="center" width="80">
-    <img src="https://skillicons.dev/icons?i=nginx&theme=dark" width="48" height="48" alt="Nginx"/><br/>
-    <sub><b>Nginx</b></sub>
-  </td>
-  <td align="center" width="80">
-    <img src="https://skillicons.dev/icons?i=aws&theme=dark" width="48" height="48" alt="AWS"/><br/>
-    <sub><b>AWS</b></sub>
-  </td>
-  <td align="center" width="80">
-    <img src="https://skillicons.dev/icons?i=gcp&theme=dark" width="48" height="48" alt="GCP"/><br/>
-    <sub><b>GCP</b></sub>
-  </td>
-</tr>
-</table>
-
-### 🔧 Developer Tools
-
-<table align="center" border="0" cellpadding="0" cellspacing="0">
-<tr>
-  <td align="center" width="80">
-    <img src="https://skillicons.dev/icons?i=git&theme=dark" width="48" height="48" alt="Git"/><br/>
-    <sub><b>Git</b></sub>
-  </td>
-  <td align="center" width="80">
-    <img src="https://skillicons.dev/icons?i=github&theme=dark" width="48" height="48" alt="GitHub"/><br/>
-    <sub><b>GitHub</b></sub>
-  </td>
-  <td align="center" width="80">
-    <img src="https://skillicons.dev/icons?i=arduino&theme=dark" width="48" height="48" alt="Arduino"/><br/>
-    <sub><b>Arduino</b></sub>
-  </td>
-</tr>
-</table>
-
----
-
-# 📈 GitHub Analytics
+## GitHub Activity
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=kunal-yelgate&show_icons=true&theme=github_dark&hide_border=true"/>
@@ -192,34 +69,17 @@ I'm **Kunal Yelgate**, a 3rd Year B.Tech Computer Science student who builds ful
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=kunal-yelgate&theme=github-dark-blue&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com/?user=kunal-yelgate&theme=github-dark-blue&hide_border=true"/>
 </p>
-
----
-
-# 📊 Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kunal-yelgate&theme=github-dark&hide_border=true&area=true"/>
 </p>
 
----
+## Let's Connect
 
-# 📫 Let's Connect
-
-<p align="center">
-  <a href="mailto:yelgatekunal@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/kunal-yelgate">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://kunalyelgate.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-</p>
-
----
+I'm always happy to talk about backend engineering, cloud, system design, or new opportunities.
+Reach me at **[yelgatekunal@gmail.com](mailto:yelgatekunal@gmail.com)** or on [LinkedIn](https://linkedin.com/in/kunal-yelgate).
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/kunal-yelgate/kunal-yelgate/output/github-contribution-grid-snake-dark.svg"/>

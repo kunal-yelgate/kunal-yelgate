@@ -13,7 +13,7 @@ Third-year Computer Science student building scalable, cloud-ready web applicati
 </p>
 
 <p align="center">
-  <a href="https://kunalyelgate.vercel.app">
+  <a href="[https://kunalyelgate.vercel.app](https://kunalyelgate.runs-on.dev/)">
     <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
   <a href="https://linkedin.com/in/kunal-yelgate">
